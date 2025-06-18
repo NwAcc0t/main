@@ -1,0 +1,4 @@
+com/example/logging/LoggingServiceApplication.class
+com/example/logging/LoggingController.class
+com/example/logging/HazelcastConfig.class
+com/example/logging/LoggingController$Message.class
